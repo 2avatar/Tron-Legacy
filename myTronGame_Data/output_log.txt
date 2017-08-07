@@ -1,0 +1,92 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\eviat\Desktop\studies\שנה ג\סמסטר ב\פיתוח משחקים\מטלות\מטלת סיום\TronLegacyProject_01_06\myTronGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\eviat\Desktop\studies\שנה ג\סמסטר ב\פיתוח משחקים\מטלות\מטלת סיום\TronLegacyProject_01_06\myTronGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\eviat\Desktop\studies\שנה ג\סמסטר ב\פיתוח משחקים\מטלות\מטלת סיום\TronLegacyProject_01_06\myTronGame_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\eviat\Desktop\studies\שנה ג\סמסטר ב\פיתוח משחקים\מטלות\מטלת סיום\TronLegacyProject_01_06\myTronGame_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\eviat\Desktop\studies\שנה ג\סמסטר ב\פיתוח משחקים\מטלות\מטלת סיום\TronLegacyProject_01_06\myTronGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\eviat\Desktop\studies\שנה ג\סמסטר ב\פיתוח משחקים\מטלות\מטלת סיום\TronLegacyProject_01_06\myTronGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\eviat\Desktop\studies\שנה ג\סמסטר ב\פיתוח משחקים\מטלות\מטלת סיום\TronLegacyProject_01_06\myTronGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\eviat\Desktop\studies\שנה ג\סמסטר ב\פיתוח משחקים\מטלות\מטלת סיום\TronLegacyProject_01_06\myTronGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\eviat\Desktop\studies\שנה ג\סמסטר ב\פיתוח משחקים\מטלות\מטלת סיום\TronLegacyProject_01_06\myTronGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\eviat\Desktop\studies\שנה ג\סמסטר ב\פיתוח משחקים\מטלות\מטלת סיום\TronLegacyProject_01_06\myTronGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\eviat\Desktop\studies\שנה ג\סמסטר ב\פיתוח משחקים\מטלות\מטלת סיום\TronLegacyProject_01_06\myTronGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\eviat\Desktop\studies\שנה ג\סמסטר ב\פיתוח משחקים\מטלות\מטלת סיום\TronLegacyProject_01_06\myTronGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+Platform assembly: C:\Users\eviat\Desktop\studies\שנה ג\סמסטר ב\פיתוח משחקים\מטלות\מטלת סיום\TronLegacyProject_01_06\myTronGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\eviat\Desktop\studies\שנה ג\סמסטר ב\פיתוח משחקים\מטלות\מטלת סיום\TronLegacyProject_01_06\myTronGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.506957 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 332c -> priority: 1 
+  Thread -> id: 3698 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.516532 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 405.
+Total: 3.914265 ms (FindLiveObjects: 0.037925 ms CreateObjectMapping: 0.029234 ms MarkObjects: 0.272197 ms  DeleteObjects: 3.574512 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.879010 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 0.717430 ms (FindLiveObjects: 0.058864 ms CreateObjectMapping: 0.054518 ms MarkObjects: 0.582715 ms  DeleteObjects: 0.020543 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.880986 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 0.701628 ms (FindLiveObjects: 0.058469 ms CreateObjectMapping: 0.053728 ms MarkObjects: 0.568492 ms  DeleteObjects: 0.019357 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.270516 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 1966.
+Total: 2.667452 ms (FindLiveObjects: 0.195555 ms CreateObjectMapping: 0.140246 ms MarkObjects: 0.959998 ms  DeleteObjects: 1.370862 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.041267 ms
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 6435.
+Total: 8.804727 ms (FindLiveObjects: 0.427061 ms CreateObjectMapping: 0.164740 ms MarkObjects: 1.050072 ms  DeleteObjects: 7.162457 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.131636 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 6435.
+Total: 3.062908 ms (FindLiveObjects: 0.389925 ms CreateObjectMapping: 0.156444 ms MarkObjects: 0.938665 ms  DeleteObjects: 1.576688 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.733114 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 6433.
+Total: 3.682759 ms (FindLiveObjects: 0.478023 ms CreateObjectMapping: 0.195950 ms MarkObjects: 1.103405 ms  DeleteObjects: 1.904589 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.279784 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 6433.
+Total: 3.274266 ms (FindLiveObjects: 0.428246 ms CreateObjectMapping: 0.166715 ms MarkObjects: 1.009776 ms  DeleteObjects: 1.668738 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.214311 ms
+
+Unloading 517 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 9.877316 ms (FindLiveObjects: 2.361675 ms CreateObjectMapping: 0.159604 ms MarkObjects: 0.711505 ms  DeleteObjects: 6.642557 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.277727 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 1.811355 ms (FindLiveObjects: 0.022518 ms CreateObjectMapping: 0.015012 ms MarkObjects: 0.220049 ms  DeleteObjects: 1.553380 ms)
+
